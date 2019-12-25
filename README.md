@@ -2,15 +2,13 @@
 
 First flutter app
 
-## Getting Started
+Watch on how to setup #Part 1
+https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=1
 
-This project is a starting point for a Flutter application.
+Watch on hoe to setup #Part 2
+https://www.youtube.com/watch?v=TSIhiZ5jRB0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=4
 
-A few resources to get you started if this is your first Flutter project:
+Speed up the video at X1.5.. gonna be a long ass video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I recommend to watch the playlist of that video...it gonna be helpful.
+That channel damn good leh
